@@ -4,7 +4,7 @@ startCommand:
   configSchema:
     type: object
     properties: {}
-  command: python
+  command: python3
   args:
     - server.py
   exampleConfig: {}
